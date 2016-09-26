@@ -1,4 +1,4 @@
-#!/Users/JasdipC/Coding/LetsLearnDjango/django_env/bin/python
+#!/Users/JasdipC/Coding/LetsLearnDjango/django_env/bin/python3.5
 from django.core import management
 
 if __name__ == "__main__":
